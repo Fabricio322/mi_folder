@@ -1,0 +1,8 @@
+<inicio>
+ Obtener datos de ventas
+ Obtener datos de tiendas = 'LIMA' Y 'TRUJILLO'
+ Obtener cantidades de ventas de juguetes
+ Obtener tipo de jugues = 'NIÑO' y 'NIÑA'
+ generar indicadores
+ exportar muestra en excel
+<fin>
